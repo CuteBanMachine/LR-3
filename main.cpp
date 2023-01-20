@@ -1,4 +1,5 @@
-#include "aboba.cpp"
+#include "aboba.h"
+
 int main()
 {
     abo p1{ "Ban", 40 };
